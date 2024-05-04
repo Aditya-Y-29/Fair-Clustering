@@ -10,8 +10,8 @@
 #include <iomanip>
 using namespace std;
 
-const int maxn = 11000;
-const int maxd = 30;
+const int maxn = 35000;
+const int maxd = 10;
 const long double eps = 1e-6;
 
 int n,d,k;
